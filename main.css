@@ -1,0 +1,85 @@
+
+body {
+    background-color:#222;
+}
+
+form {
+    width:550px;
+    height:350px;
+    margin:auto;
+    padding:100px;
+    background-image: url("bg_form.jpg");
+    border-radius:11px;
+}
+
+input {
+    width:140px;
+    height:30px;
+    border-radius:21px;
+    border:0px solid red;
+    outline: none;
+    padding:5px;
+    padding-left:11px;
+    font-size:21px;
+}
+#email {
+    width:170px;
+}
+
+
+textarea {
+    width:450px;
+    height:70px;
+    margin:21px auto;
+    border-radius:11px;
+    font-size:21px;
+    padding:21px;
+}
+
+
+#btn  {
+   margin-top:0px;
+   width:170px;
+   height:30px;
+   background-color:#FFCA2C;
+   color:rgb(0, 0, 0);
+   border:0px;
+   border-radius:21px;
+   font-weight: 700;
+   font-size:21px;
+   margin-left:111px;
+}
+#imageFile{
+    width:auto;
+}
+
+.imageStyle {
+    width:111px;
+    height:111px;
+    border-radius: 111px;
+    margin-left:190px;
+
+}
+
+
+.bio-placeholder {
+    width:550px;
+    height:auto;
+    margin:21px auto;
+    background-color:#EF6B3B;
+    text-align: center;
+    color:white;
+    font-size:21px;
+}
+
+.newUser {
+    border-bottom:3px solid white;
+    padding:21px;
+}
+
+
+.prevImage {
+    width:111px;
+    height:111px;
+    border-radius:111px;
+}
